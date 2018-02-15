@@ -1,1 +1,2 @@
-# SGLeran
+# CGI
+Competitive Gaming Insights
